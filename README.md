@@ -10,14 +10,13 @@ This is a budgeting application with offline functionality. We achieved this via
 - [Usage](#usage)
 - [License](#license)
 - [Contribute](#contribute)
-- [Tests](#tests)
 - [Contact](#contact)
 
 ## Installation
 
-```
-Download repo and install dependencies, then npm start and to listen on local port.
-```
+
+Download repo, install dependencies, and npm start to listen on local port.
+
 
 ## Usage
 
@@ -31,10 +30,7 @@ Download repo and install dependencies, then npm start and to listen on local po
 
 Git clone, create new branch, submit pull request.
 
-## Tests
-```
 
-```
 
 ## Contact
 
